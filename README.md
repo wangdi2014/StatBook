@@ -1,9 +1,10 @@
-echo "# StatBook" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/wangdi2014/StatBook.git
-git push -u origin main
+# Free StatBook
 
-# StatBook
+"Data is the sword of the 21st century, those who wield it well, the Samurai."
+Jonathan Rosenberg, adviser to Larry Page and former SVP of products at Google
+
+1. An Introduction to Statistical Learning Authors: James, G., Witten, D., Hastie, T., Tibshirani, R.
+https://www.statlearning.com
+
+2. The Elements of Statistical Learning Authors: Hastie, Trevor, Tibshirani, Robert, Friedman, Jerome 
+https://web.stanford.edu/~hastie/ElemStatLearn/
